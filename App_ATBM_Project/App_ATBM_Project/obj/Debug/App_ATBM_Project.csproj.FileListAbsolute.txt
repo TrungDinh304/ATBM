@@ -1,0 +1,10 @@
+D:\Github\ATBM\App_ATBM_Project\App_ATBM_Project\bin\Debug\App_ATBM_Project.exe.config
+D:\Github\ATBM\App_ATBM_Project\App_ATBM_Project\bin\Debug\App_ATBM_Project.exe
+D:\Github\ATBM\App_ATBM_Project\App_ATBM_Project\bin\Debug\App_ATBM_Project.pdb
+D:\Github\ATBM\App_ATBM_Project\App_ATBM_Project\obj\Debug\App_ATBM_Project.csproj.AssemblyReference.cache
+D:\Github\ATBM\App_ATBM_Project\App_ATBM_Project\obj\Debug\App_ATBM_Project.F_Home.resources
+D:\Github\ATBM\App_ATBM_Project\App_ATBM_Project\obj\Debug\App_ATBM_Project.Properties.Resources.resources
+D:\Github\ATBM\App_ATBM_Project\App_ATBM_Project\obj\Debug\App_ATBM_Project.csproj.GenerateResource.cache
+D:\Github\ATBM\App_ATBM_Project\App_ATBM_Project\obj\Debug\App_ATBM_Project.csproj.CoreCompileInputs.cache
+D:\Github\ATBM\App_ATBM_Project\App_ATBM_Project\obj\Debug\App_ATBM_Project.exe
+D:\Github\ATBM\App_ATBM_Project\App_ATBM_Project\obj\Debug\App_ATBM_Project.pdb

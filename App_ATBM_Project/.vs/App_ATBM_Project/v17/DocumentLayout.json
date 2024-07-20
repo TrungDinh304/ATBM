@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\ATBM\\App_ATBM_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBABF73-01A8-423C-B393-B3DB389696A2}|App_ATBM_Project\\App_ATBM_Project.csproj|d:\\github\\atbm\\app_atbm_project\\app_atbm_project\\f_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BBABF73-01A8-423C-B393-B3DB389696A2}|App_ATBM_Project\\App_ATBM_Project.csproj|solutionrelative:app_atbm_project\\f_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBABF73-01A8-423C-B393-B3DB389696A2}|App_ATBM_Project\\App_ATBM_Project.csproj|d:\\github\\atbm\\app_atbm_project\\app_atbm_project\\f_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BBABF73-01A8-423C-B393-B3DB389696A2}|App_ATBM_Project\\App_ATBM_Project.csproj|solutionrelative:app_atbm_project\\f_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBABF73-01A8-423C-B393-B3DB389696A2}|App_ATBM_Project\\App_ATBM_Project.csproj|d:\\github\\atbm\\app_atbm_project\\app_atbm_project\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BBABF73-01A8-423C-B393-B3DB389696A2}|App_ATBM_Project\\App_ATBM_Project.csproj|solutionrelative:app_atbm_project\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBABF73-01A8-423C-B393-B3DB389696A2}|App_ATBM_Project\\App_ATBM_Project.csproj|d:\\github\\atbm\\app_atbm_project\\app_atbm_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BBABF73-01A8-423C-B393-B3DB389696A2}|App_ATBM_Project\\App_ATBM_Project.csproj|solutionrelative:app_atbm_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "F_Home.cs",
+              "DocumentMoniker": "D:\\Github\\ATBM\\App_ATBM_Project\\App_ATBM_Project\\F_Home.cs",
+              "RelativeDocumentMoniker": "App_ATBM_Project\\F_Home.cs",
+              "ToolTip": "D:\\Github\\ATBM\\App_ATBM_Project\\App_ATBM_Project\\F_Home.cs",
+              "RelativeToolTip": "App_ATBM_Project\\F_Home.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:52:30.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\Github\\ATBM\\App_ATBM_Project\\App_ATBM_Project\\Connection.cs",
+              "RelativeDocumentMoniker": "App_ATBM_Project\\Connection.cs",
+              "ToolTip": "D:\\Github\\ATBM\\App_ATBM_Project\\App_ATBM_Project\\Connection.cs",
+              "RelativeToolTip": "App_ATBM_Project\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:40:33.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "F_Home.cs [Design]",
+              "DocumentMoniker": "D:\\Github\\ATBM\\App_ATBM_Project\\App_ATBM_Project\\F_Home.cs",
+              "RelativeDocumentMoniker": "App_ATBM_Project\\F_Home.cs",
+              "ToolTip": "D:\\Github\\ATBM\\App_ATBM_Project\\App_ATBM_Project\\F_Home.cs [Design]",
+              "RelativeToolTip": "App_ATBM_Project\\F_Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:39:26.795Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\ATBM\\App_ATBM_Project\\App_ATBM_Project\\Program.cs",
+              "RelativeDocumentMoniker": "App_ATBM_Project\\Program.cs",
+              "ToolTip": "D:\\Github\\ATBM\\App_ATBM_Project\\App_ATBM_Project\\Program.cs",
+              "RelativeToolTip": "App_ATBM_Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:39:00.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
