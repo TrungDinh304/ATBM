@@ -118,40 +118,64 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Pink_donvi" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Pink_donvi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Pink_dangkihocphan" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Pink_dangkihocphan.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Pink_sinhvien" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Pink_sinhvien.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Pink_lophoc" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Pink_lophoc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Pink_phancong" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Pink_phancong.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Pink_giangvien" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Pink_giangvien.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Pink_giangvien1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Pink_giangvien.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Black_nhansu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Black_nhansu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Black_giangvien" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Black_giangvien.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Pink_kehoachmo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Pink_kehoachmo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Pink_nhansu" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Pink_nhansu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Black_kehoachmo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Black_kehoachmo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Pink_hocphan" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Pink_hocphan.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Black_phancong" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Black_phancong.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pink_sinhvien" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pink_sinhvien.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pink_donvi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pink_donvi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pink_kehoachmo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pink_kehoachmo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pink_giangvien" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pink_giangvien.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pink_dangkihocphan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pink_dangkihocphan.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Black_dangkihocphan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Black_dangkihocphan.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pink_giangvien1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pink_giangvien.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pink_nhansu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pink_nhansu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Black_lophoc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Black_lophoc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Black_sinhvien" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Black_sinhvien.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Black_donvi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Black_donvi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pink_phancong" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pink_phancong.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pink_lophoc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pink_lophoc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Black_hocphan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Black_hocphan.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

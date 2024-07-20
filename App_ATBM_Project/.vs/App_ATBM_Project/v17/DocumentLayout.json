@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{9BBABF73-01A8-423C-B393-B3DB389696A2}|App_ATBM_Project\\App_ATBM_Project.csproj|solutionrelative:app_atbm_project\\f_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BBABF73-01A8-423C-B393-B3DB389696A2}|App_ATBM_Project\\App_ATBM_Project.csproj|d:\\github\\atbm\\app_atbm_project\\app_atbm_project\\f_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BBABF73-01A8-423C-B393-B3DB389696A2}|App_ATBM_Project\\App_ATBM_Project.csproj|solutionrelative:app_atbm_project\\f_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BBABF73-01A8-423C-B393-B3DB389696A2}|App_ATBM_Project\\App_ATBM_Project.csproj|d:\\github\\atbm\\app_atbm_project\\app_atbm_project\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BBABF73-01A8-423C-B393-B3DB389696A2}|App_ATBM_Project\\App_ATBM_Project.csproj|D:\\Github\\ATBM\\App_ATBM_Project\\app_atbm_project\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BBABF73-01A8-423C-B393-B3DB389696A2}|App_ATBM_Project\\App_ATBM_Project.csproj|solutionrelative:app_atbm_project\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BBABF73-01A8-423C-B393-B3DB389696A2}|App_ATBM_Project\\App_ATBM_Project.csproj|d:\\github\\atbm\\app_atbm_project\\app_atbm_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BBABF73-01A8-423C-B393-B3DB389696A2}|App_ATBM_Project\\App_ATBM_Project.csproj|D:\\Github\\ATBM\\App_ATBM_Project\\app_atbm_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BBABF73-01A8-423C-B393-B3DB389696A2}|App_ATBM_Project\\App_ATBM_Project.csproj|solutionrelative:app_atbm_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBABF73-01A8-423C-B393-B3DB389696A2}|App_ATBM_Project\\App_ATBM_Project.csproj|D:\\Github\\ATBM\\App_ATBM_Project\\app_atbm_project\\f_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BBABF73-01A8-423C-B393-B3DB389696A2}|App_ATBM_Project\\App_ATBM_Project.csproj|solutionrelative:app_atbm_project\\f_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBABF73-01A8-423C-B393-B3DB389696A2}|App_ATBM_Project\\App_ATBM_Project.csproj|D:\\Github\\ATBM\\App_ATBM_Project\\app_atbm_project\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{9BBABF73-01A8-423C-B393-B3DB389696A2}|App_ATBM_Project\\App_ATBM_Project.csproj|solutionrelative:app_atbm_project\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +30,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\Github\\ATBM\\App_ATBM_Project\\App_ATBM_Project\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "App_ATBM_Project\\Properties\\Resources.resx",
+              "ToolTip": "D:\\Github\\ATBM\\App_ATBM_Project\\App_ATBM_Project\\Properties\\Resources.resx",
+              "RelativeToolTip": "App_ATBM_Project\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-20T15:49:41.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "F_Home.cs",
               "DocumentMoniker": "D:\\Github\\ATBM\\App_ATBM_Project\\App_ATBM_Project\\F_Home.cs",
               "RelativeDocumentMoniker": "App_ATBM_Project\\F_Home.cs",
@@ -43,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Connection.cs",
               "DocumentMoniker": "D:\\Github\\ATBM\\App_ATBM_Project\\App_ATBM_Project\\Connection.cs",
               "RelativeDocumentMoniker": "App_ATBM_Project\\Connection.cs",
@@ -68,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\ATBM\\App_ATBM_Project\\App_ATBM_Project\\Program.cs",
               "RelativeDocumentMoniker": "App_ATBM_Project\\Program.cs",
